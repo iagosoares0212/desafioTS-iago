@@ -18,9 +18,6 @@ interface Avalicoes {
 
 type GeneroDeLivro = string
 
-
-
-
 // Resolução dos exercícios
 
 export const exercicio01 = (livros: Livro[], anoLimite: number): string[] => livros
@@ -33,16 +30,28 @@ export const exercicio01 = (livros: Livro[], anoLimite: number): string[] => liv
 .map(livro => livro.titulo)
 
 
-export const exercicio02 = (livros: Livro[], copiasDisponiveis: Livro['copiasDisponiveis'], genero: GeneroDeLivro): Omit<Livro, 'avaliacoes'>[] => livros
-    .filter(livro => livro.copiasDisponiveis == copiasDisponiveis)
-    .map(livros =>  {
-        const {avaliacoes, ...livroSemAvaliacoes} = livros;
-
+export const exercicio02 = (
+    livros: Livro[],
+    copiasDisponiveis: Livro['copiasDisponiveis'],
+    genero: GeneroDeLivro
+  ): Omit<Livro, 'avaliacoes'>[] =>
+    livros
+      .filter(livro => livro.copiasDisponiveis === copiasDisponiveis)
+      .map(livro => {
+        const { avaliacoes, ...livroSemAvaliacoes } = livro;
+  
         return {
-            ...livroSemAvaliacoes,
-            generos: Array.from(new Set([...livros.generos, genero]))
+          ...livroSemAvaliacoes,
+          generos: [...livro.generos, genero] // apenas adiciona o gênero
         };
-    });
+
+        // ou fazer assim para remover duplicatas de gênero
+        // return {
+        //     ...livroSemAvaliacoes,
+        //     generos: Array.from(new Set([...livro.generos, genero]))
+        //   };
+    
+      });
 
 // export const exercicio03 = (livros: Livro[], autores: Autor[]): Record<string, string> => autores
 
