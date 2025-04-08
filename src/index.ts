@@ -33,7 +33,9 @@ export const exercicio01 = (livros: Livro[], anoLimite: number): string[] => liv
 .map(livro => livro.titulo)
 
 
-// export const exercicio02 = (livros: Livro[], copiasDisponiveis: Livro['copiasDisponiveis'], genero: GeneroDeLivro): Omit<Livro, 'avaliacoes'>[] => livros.
+export const exercicio02 = (livros: Livro[], copiasDisponiveis: Livro['copiasDisponiveis'], genero: GeneroDeLivro): Omit<Livro, 'avaliacoes'>[] => livros
+.filter(livro => livro.copiasDisponiveis == copiasDisponiveis)
+.map(livros )
 
 // export const exercicio03 = (livros: Livro[], autores: Autor[]): Record<string, string> => autores
 
