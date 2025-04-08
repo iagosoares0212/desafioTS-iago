@@ -1,0 +1,670 @@
+[
+  {
+    "id": 1,
+    "nome": "Machado de Assis",
+    "dataNascimento": "1968-04-25",
+    "tipo": "autor",
+    "premiosLiterarios": 2
+  },
+  {
+    "id": 2,
+    "nome": "Clarice Lispector",
+    "dataNascimento": "1989-08-04",
+    "tipo": "autor",
+    "premiosLiterarios": 0
+  },
+  {
+    "id": 3,
+    "nome": "Jorge Amado",
+    "dataNascimento": "1961-08-22",
+    "tipo": "autor",
+    "premiosLiterarios": 6
+  },
+  {
+    "id": 4,
+    "nome": "Guimarães Rosa",
+    "dataNascimento": "1988-03-18",
+    "tipo": "autor",
+    "premiosLiterarios": 7
+  },
+  {
+    "id": 5,
+    "nome": "Cecília Meireles",
+    "dataNascimento": "1965-02-05",
+    "tipo": "autor",
+    "premiosLiterarios": 2
+  },
+  {
+    "id": 6,
+    "nome": "Carlos Drummond",
+    "dataNascimento": "1990-08-18",
+    "tipo": "autor",
+    "premiosLiterarios": 4
+  },
+  {
+    "id": 7,
+    "nome": "Graciliano Ramos",
+    "dataNascimento": "1981-03-16",
+    "tipo": "autor",
+    "premiosLiterarios": 0
+  },
+  {
+    "id": 8,
+    "nome": "Érico Veríssimo",
+    "dataNascimento": "1956-04-10",
+    "tipo": "autor",
+    "premiosLiterarios": 0
+  },
+  {
+    "id": 9,
+    "nome": "Rachel de Queiroz",
+    "dataNascimento": "1981-04-28",
+    "tipo": "autor",
+    "premiosLiterarios": 4
+  },
+  {
+    "id": 10,
+    "nome": "José Saramago",
+    "dataNascimento": "1958-05-17",
+    "tipo": "autor",
+    "premiosLiterarios": 9
+  },
+  {
+    "id": 11,
+    "nome": "Stephen King",
+    "dataNascimento": "1968-11-16",
+    "tipo": "autor",
+    "premiosLiterarios": 9
+  },
+  {
+    "id": 12,
+    "nome": "J.R.R. Tolkien",
+    "dataNascimento": "1993-04-11",
+    "tipo": "autor",
+    "premiosLiterarios": 1
+  },
+  {
+    "id": 13,
+    "nome": "George Orwell",
+    "dataNascimento": "1977-05-02",
+    "tipo": "autor",
+    "premiosLiterarios": 5
+  },
+  {
+    "id": 14,
+    "nome": "Agatha Christie",
+    "dataNascimento": "1968-12-06",
+    "tipo": "autor",
+    "premiosLiterarios": 4
+  },
+  {
+    "id": 15,
+    "nome": "J.K. Rowling",
+    "dataNascimento": "1966-12-27",
+    "tipo": "autor",
+    "premiosLiterarios": 7
+  },
+  {
+    "id": 16,
+    "nome": "Isaac Asimov",
+    "dataNascimento": "1966-07-09",
+    "tipo": "autor",
+    "premiosLiterarios": 10
+  },
+  {
+    "id": 17,
+    "nome": "Frank Herbert",
+    "dataNascimento": "1989-06-11",
+    "tipo": "autor",
+    "premiosLiterarios": 8
+  },
+  {
+    "id": 18,
+    "nome": "Gabriel García Márquez",
+    "dataNascimento": "1970-12-27",
+    "tipo": "autor",
+    "premiosLiterarios": 8
+  },
+  {
+    "id": 19,
+    "nome": "Julio Cortázar",
+    "dataNascimento": "1975-05-09",
+    "tipo": "autor",
+    "premiosLiterarios": 7
+  },
+  {
+    "id": 20,
+    "nome": "Fiódor Dostoiévski",
+    "dataNascimento": "1976-12-16",
+    "tipo": "autor",
+    "premiosLiterarios": 2
+  },
+  {
+    "id": 21,
+    "nome": "Franz Kafka",
+    "dataNascimento": "1963-10-23",
+    "tipo": "autor",
+    "premiosLiterarios": 8
+  },
+  {
+    "id": 22,
+    "nome": "Markus Zusak",
+    "dataNascimento": "1977-10-09",
+    "tipo": "autor",
+    "premiosLiterarios": 7
+  },
+  {
+    "id": 23,
+    "nome": "Paulo Coelho",
+    "dataNascimento": "1958-08-20",
+    "tipo": "autor",
+    "premiosLiterarios": 4
+  },
+  {
+    "id": 24,
+    "nome": "Jane Austen",
+    "dataNascimento": "1958-12-24",
+    "tipo": "autor",
+    "premiosLiterarios": 3
+  },
+  {
+    "id": 25,
+    "nome": "Aluísio Azevedo",
+    "dataNascimento": "1984-11-27",
+    "tipo": "autor",
+    "premiosLiterarios": 1
+  },
+  {
+    "id": 26,
+    "nome": "Antoine de Saint-Exupéry",
+    "dataNascimento": "1973-11-05",
+    "tipo": "autor",
+    "premiosLiterarios": 5
+  },
+  {
+    "id": 27,
+    "nome": "Nicole Viana",
+    "dataNascimento": "2003-11-09",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "aventura",
+      "produtividade",
+      "engenharia de software",
+      "história"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Alícia Dias",
+    "dataNascimento": "1973-11-22",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "autoajuda",
+      "produtividade",
+      "fantasia",
+      "programação"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Enzo Gabriel Porto",
+    "dataNascimento": "1984-02-27",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "aventura",
+      "biografia"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Maria Sophia Martins",
+    "dataNascimento": "1978-04-01",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "engenharia de software",
+      "aventura"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Ana Julia Rocha",
+    "dataNascimento": "1977-03-25",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "história",
+      "produtividade",
+      "fantasia",
+      "mistério"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Joana Silva",
+    "dataNascimento": "1970-03-15",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "romance"    ]
+  },
+  {
+    "id": 33,
+    "nome": "Pietro Gonçalves",
+    "dataNascimento": "1993-12-16",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "produtividade",
+      "terror",
+      "aventura",
+      "engenharia de software"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Sra. Emanuelly Jesus",
+    "dataNascimento": "1986-11-11",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "terror",
+      "engenharia de software",
+      "ficção científica"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Luana Rocha",
+    "dataNascimento": "1981-02-15",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "romance",
+      "autoajuda",
+      "produtividade"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Maria Fernanda Duarte",
+    "dataNascimento": "1977-08-24",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "romance",
+      "mistério"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Lavínia Campos",
+    "dataNascimento": "2006-03-18",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "fantasia",
+      "terror"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Vitória Vieira",
+    "dataNascimento": "1987-06-26",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "épico",
+      "aventura",
+      "produtividade"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Maitê da Rosa",
+    "dataNascimento": "1988-05-29",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "produtividade",
+      "aventura",
+      "autoajuda",
+      "romance"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Catarina Souza",
+    "dataNascimento": "1991-12-25",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "biografia",
+      "engenharia de software"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Ana Luiza Nogueira",
+    "dataNascimento": "1983-12-18",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "biografia",
+      "romance",
+      "história",
+      "mistério"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Marcelo Monteiro",
+    "dataNascimento": "2010-02-02",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "romance",
+      "terror"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Cauê Melo",
+    "dataNascimento": "1971-10-31",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "autoajuda",
+      "ficção científica",
+      "fantasia",
+      "biografia"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "João Vitor Gonçalves",
+    "dataNascimento": "1977-12-14",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "biografia",
+      "autoajuda",
+      "produtividade",
+      "terror"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Ana Laura Viana",
+    "dataNascimento": "2006-06-24",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "fantasia",
+      "biografia"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Sra. Ana Júlia Ribeiro",
+    "dataNascimento": "1986-06-01",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "terror",
+      "engenharia de software",
+      "aventura",
+      "fantasia"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Enzo Teixeira",
+    "dataNascimento": "1980-10-16",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "terror",
+      "ficção científica",
+      "aventura",
+      "mistério"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Lara Pires",
+    "dataNascimento": "2009-05-07",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "engenharia de software",
+      "biografia"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Lorenzo Moraes",
+    "dataNascimento": "1999-03-07",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "produtividade",
+      "fantasia",
+      "biografia"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Benjamin das Neves",
+    "dataNascimento": "1971-06-23",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "história",
+      "produtividade",
+      "romance"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Yago Barros",
+    "dataNascimento": "1983-10-29",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "aventura",
+      "ficção científica",
+      "fantasia",
+      "terror"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Catarina Martins",
+    "dataNascimento": "1977-04-28",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "ficção científica",
+      "terror",
+      "aventura",
+      "autoajuda"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Thomas Moreira",
+    "dataNascimento": "1992-05-13",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "terror",
+      "engenharia de software",
+      "programação"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Evelyn Porto",
+    "dataNascimento": "2009-01-09",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "programação",
+      "engenharia de software",
+      "autoajuda",
+      "épico"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Maria Carvalho",
+    "dataNascimento": "1971-11-30",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "aventura",
+      "produtividade",
+      "engenharia de software",
+      "biografia"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Fernando Melo",
+    "dataNascimento": "1999-11-16",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "terror",
+      "biografia",
+      "romance"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Maria Julia Nascimento",
+    "dataNascimento": "1993-08-26",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "mistério",
+      "terror",
+      "autoajuda"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Sofia da Mata",
+    "dataNascimento": "2008-04-25",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "épico",
+      "engenharia de software"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Otávio Araújo",
+    "dataNascimento": "1967-04-25",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "ficção científica",
+      "biografia",
+      "épico",
+      "autoajuda"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Davi Teixeira",
+    "dataNascimento": "1994-01-28",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "biografia",
+      "fantasia"
+    ]
+  },
+  {
+    "id": 61,
+    "nome": "Luiz Felipe Cardoso",
+    "dataNascimento": "1984-03-27",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "autoajuda",
+      "produtividade",
+      "aventura"
+    ]
+  },
+  {
+    "id": 62,
+    "nome": "Maria Clara da Mata",
+    "dataNascimento": "2003-12-15",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "programação",
+      "história"
+    ]
+  },
+  {
+    "id": 63,
+    "nome": "Lucas Nascimento",
+    "dataNascimento": "2003-06-04",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "fantasia",
+      "biografia",
+      "engenharia de software"
+    ]
+  },
+  {
+    "id": 64,
+    "nome": "Matheus Correia",
+    "dataNascimento": "1971-09-17",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "história",
+      "épico",
+      "mistério",
+      "terror"
+    ]
+  },
+  {
+    "id": 65,
+    "nome": "Sofia Silveira",
+    "dataNascimento": "1978-06-14",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "biografia",
+      "produtividade",
+      "aventura",
+      "engenharia de software"
+    ]
+  },
+  {
+    "id": 66,
+    "nome": "Bruna Fogaça",
+    "dataNascimento": "1971-12-17",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "ficção científica",
+      "engenharia de software",
+      "biografia",
+      "programação"
+    ]
+  },
+  {
+    "id": 67,
+    "nome": "Isabelly Monteiro",
+    "dataNascimento": "2000-07-31",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "produtividade",
+      "romance"
+    ]
+  },
+  {
+    "id": 68,
+    "nome": "Julia Caldeira",
+    "dataNascimento": "2008-05-12",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "romance",
+      "engenharia de software",
+      "terror"
+    ]
+  },
+  {
+    "id": 69,
+    "nome": "Maria Vitória da Rocha",
+    "dataNascimento": "1976-03-22",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "autoajuda",
+      "aventura",
+      "engenharia de software"
+    ]
+  },
+  {
+    "id": 70,
+    "nome": "Ana Beatriz da Rocha",
+    "dataNascimento": "1968-02-21",
+    "tipo": "leitor",
+    "generosFavoritos": [
+      "produtividade",
+      "fantasia"
+    ]
+  }
+]

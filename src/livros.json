@@ -1,0 +1,1556 @@
+[
+  {
+    "id": 101,
+    "titulo": "Dom Casmurro",
+    "autorId": 1,
+    "paginas": 376,
+    "generos": [
+      "biografia",
+      "fantasia"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 56,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 50,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 33,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 64,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 32,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 46,
+        "nota": 4.6
+      }
+    ],
+    "copiasDisponiveis": 0,
+    "anoPublicacao": 1980
+  },
+  {
+    "id": 102,
+    "titulo": "Cem Anos de Solidão",
+    "autorId": 18,
+    "paginas": 301,
+    "generos": [
+      "aventura"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 60,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 49,
+        "nota": 4.0
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 1915
+  },
+  {
+    "id": 103,
+    "titulo": "O Senhor dos Anéis",
+    "autorId": 12,
+    "paginas": 609,
+    "generos": [
+      "romance",
+      "terror",
+      "história"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 38,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 68,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 67,
+        "nota": 4.2
+      }
+    ],
+    "copiasDisponiveis": 4,
+    "anoPublicacao": 1932
+  },
+  {
+    "id": 104,
+    "titulo": "Crime e Castigo",
+    "autorId": 20,
+    "paginas": 669,
+    "generos": [
+      "autoajuda"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 36,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 57,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 46,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 64,
+        "nota": 3.6
+      }
+    ],
+    "copiasDisponiveis": 3,
+    "anoPublicacao": 1965
+  },
+  {
+    "id": 105,
+    "titulo": "1984",
+    "autorId": 13,
+    "paginas": 242,
+    "generos": [
+      "romance",
+      "mistério",
+      "engenharia de software"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 30,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 45,
+        "nota": 3.6
+      }
+    ],
+    "copiasDisponiveis": 3,
+    "anoPublicacao": 1998
+  },
+  {
+    "id": 106,
+    "titulo": "A Hora da Estrela",
+    "autorId": 2,
+    "paginas": 236,
+    "generos": [
+      "terror",
+      "fantasia",
+      "ficção científica"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 29,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 63,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 47,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 59,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 30,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 48,
+        "nota": 5.0
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 1962
+  },
+  {
+    "id": 107,
+    "titulo": "Harry Potter",
+    "autorId": 15,
+    "paginas": 492,
+    "generos": [
+      "produtividade"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 60,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 37,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 45,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 48,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 30,
+        "nota": 4.7
+      }
+    ],
+    "copiasDisponiveis": 0,
+    "anoPublicacao": 1992
+  },
+  {
+    "id": 108,
+    "titulo": "Duna",
+    "autorId": 17,
+    "paginas": 508,
+    "generos": [
+      "terror",
+      "história"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 45,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 69,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 65,
+        "nota": 4.8
+      },
+      {
+        "usuarioId": 48,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 69,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1950
+  },
+  {
+    "id": 109,
+    "titulo": "Fundação",
+    "autorId": 16,
+    "paginas": 486,
+    "generos": [
+      "terror"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 65,
+        "nota": 4.6
+      },
+      {
+        "usuarioId": 32,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 51,
+        "nota": 4.5
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1984
+  },
+  {
+    "id": 110,
+    "titulo": "A Metamorfose",
+    "autorId": 21,
+    "paginas": 521,
+    "generos": [
+      "fantasia",
+      "épico"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 68,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 59,
+        "nota": 4.0
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 1974
+  },
+  {
+    "id": 111,
+    "titulo": "Vidas Secas",
+    "autorId": 7,
+    "paginas": 689,
+    "generos": [
+      "terror"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 41,
+        "nota": 5.0
+      },
+      {
+        "usuarioId": 36,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 33,
+        "nota": 4.3
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 2008
+  },
+  {
+    "id": 112,
+    "titulo": "A Revolução dos Bichos",
+    "autorId": 13,
+    "paginas": 319,
+    "generos": [
+      "programação",
+      "ficção científica",
+      "engenharia de software"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 65,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 37,
+        "nota": 3.8
+      },
+      {
+        "usuarioId": 66,
+        "nota": 4.7
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 2023
+  },
+  {
+    "id": 113,
+    "titulo": "Ensaio sobre a Cegueira",
+    "autorId": 10,
+    "paginas": 630,
+    "generos": [
+      "suspense"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 55,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 55,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 42,
+        "nota": 4.0
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1996
+  },
+  {
+    "id": 114,
+    "titulo": "Capitães da Areia",
+    "autorId": 3,
+    "paginas": 203,
+    "generos": [
+      "mistério"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 56,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 51,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 53,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 39,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 35,
+        "nota": 4.8
+      }
+    ],
+    "copiasDisponiveis": 0,
+    "anoPublicacao": 1982
+  },
+  {
+    "id": 115,
+    "titulo": "A Menina que Roubava Livros",
+    "autorId": 22,
+    "paginas": 675,
+    "generos": [
+      "engenharia de software"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 45,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 37,
+        "nota": 3.9
+      }
+    ],
+    "copiasDisponiveis": 0,
+    "anoPublicacao": 1906
+  },
+  {
+    "id": 116,
+    "titulo": "O Alquimista",
+    "autorId": 23,
+    "paginas": 476,
+    "generos": [
+      "história"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 49,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 53,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 59,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 51,
+        "nota": 5.0
+      },
+      {
+        "usuarioId": 50,
+        "nota": 3.8
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1935
+  },
+  {
+    "id": 117,
+    "titulo": "Orgulho e Preconceito",
+    "autorId": 24,
+    "paginas": 630,
+    "generos": [
+      "romance",
+      "ficção científica"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 35,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 57,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 35,
+        "nota": 4.6
+      }
+    ],
+    "copiasDisponiveis": 0,
+    "anoPublicacao": 1854
+  },
+  {
+    "id": 118,
+    "titulo": "O Iluminado",
+    "autorId": 11,
+    "paginas": 393,
+    "generos": [
+      "aventura",
+      "ficção científica"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 40,
+        "nota": 4.8
+      },
+      {
+        "usuarioId": 62,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 65,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 34,
+        "nota": 4.7
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 1957
+  },
+  {
+    "id": 119,
+    "titulo": "O Cortiço",
+    "autorId": 25,
+    "paginas": 396,
+    "generos": [
+      "engenharia de software",
+      "fantasia",
+      "terror"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 56,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 58,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 28,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 63,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 36,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 27,
+        "nota": 4.4
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1871
+  },
+  {
+    "id": 120,
+    "titulo": "O Pequeno Príncipe",
+    "autorId": 26,
+    "paginas": 166,
+    "generos": [
+      "biografia",
+      "aventura"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 50,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 60,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 59,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 51,
+        "nota": 4.8
+      },
+      {
+        "usuarioId": 29,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 50,
+        "nota": 3.9
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 1911
+  },
+  {
+    "id": 121,
+    "titulo": "At dolores",
+    "autorId": 8,
+    "paginas": 510,
+    "generos": [
+      "produtividade",
+      "terror",
+      "fantasia"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 64,
+        "nota": 4.6
+      },
+      {
+        "usuarioId": 48,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1968
+  },
+  {
+    "id": 122,
+    "titulo": "Atque repudiandae",
+    "autorId": 15,
+    "paginas": 473,
+    "generos": [
+      "mistério",
+      "engenharia de software"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 67,
+        "nota": 3.8
+      },
+      {
+        "usuarioId": 35,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 56,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 39,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 39,
+        "nota": 4.8
+      }
+    ],
+    "copiasDisponiveis": 4,
+    "anoPublicacao": 1971
+  },
+  {
+    "id": 123,
+    "titulo": "Voluptates labore",
+    "autorId": 18,
+    "paginas": 526,
+    "generos": [
+      "engenharia de software",
+      "história"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 29,
+        "nota": 4.6
+      },
+      {
+        "usuarioId": 39,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 30,
+        "nota": 4.8
+      },
+      {
+        "usuarioId": 48,
+        "nota": 3.9
+      }
+    ],
+    "copiasDisponiveis": 3,
+    "anoPublicacao": 1948
+  },
+  {
+    "id": 124,
+    "titulo": "Nulla cumque quis",
+    "autorId": 5,
+    "paginas": 230,
+    "generos": [
+      "romance",
+      "fantasia"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 38,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 58,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 60,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 32,
+        "nota": 4.6
+      }
+    ],
+    "copiasDisponiveis": 4,
+    "anoPublicacao": 1925
+  },
+  {
+    "id": 125,
+    "titulo": "Omnis dicta",
+    "autorId": 13,
+    "paginas": 604,
+    "generos": [
+      "programação",
+      "ficção científica"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 33,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 69,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 55,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 54,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1940
+  },
+  {
+    "id": 126,
+    "titulo": "Corrupti ratione",
+    "autorId": 7,
+    "paginas": 598,
+    "generos": [
+      "fantasia"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 54,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 30,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 67,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 59,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 70,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 28,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 10,
+    "anoPublicacao": 1910
+  },
+  {
+    "id": 127,
+    "titulo": "Distinctio",
+    "autorId": 20,
+    "paginas": 228,
+    "generos": [
+      "fantasia",
+      "mistério",
+      "produtividade"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 50,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 63,
+        "nota": 3.5
+      },
+      {
+        "usuarioId": 36,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 50,
+        "nota": 4.1
+      }
+    ],
+    "copiasDisponiveis": 3,
+    "anoPublicacao": 1930
+  },
+  {
+    "id": 128,
+    "titulo": "Quasi pariatur",
+    "autorId": 17,
+    "paginas": 416,
+    "generos": [
+      "programação",
+      "épico",
+      "romance"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 42,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 28,
+        "nota": 4.6
+      },
+      {
+        "usuarioId": 58,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 62,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 1975
+  },
+  {
+    "id": 129,
+    "titulo": "Quibusdam inventore repellat",
+    "autorId": 5,
+    "paginas": 477,
+    "generos": [
+      "produtividade",
+      "história",
+      "aventura"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 34,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 31,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 55,
+        "nota": 5.0
+      }
+    ],
+    "copiasDisponiveis": 4,
+    "anoPublicacao": 1988
+  },
+  {
+    "id": 130,
+    "titulo": "Dicta impedit",
+    "autorId": 3,
+    "paginas": 292,
+    "generos": [
+      "biografia"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 46,
+        "nota": 4.8
+      },
+      {
+        "usuarioId": 67,
+        "nota": 3.8
+      },
+      {
+        "usuarioId": 50,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 34,
+        "nota": 5.0
+      }
+    ],
+    "copiasDisponiveis": 3,
+    "anoPublicacao": 1856
+  },
+  {
+    "id": 131,
+    "titulo": "Et",
+    "autorId": 9,
+    "paginas": 557,
+    "generos": [
+      "história",
+      "programação",
+      "mistério"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 62,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 56,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 62,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 32,
+        "nota": 3.6
+      }
+    ],
+    "copiasDisponiveis": 3,
+    "anoPublicacao": 1954
+  },
+  {
+    "id": 132,
+    "titulo": "Quod unde facilis",
+    "autorId": 14,
+    "paginas": 282,
+    "generos": [
+      "mistério",
+      "ficção científica"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 31,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 47,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 55,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 60,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 62,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 38,
+        "nota": 4.7
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1982
+  },
+  {
+    "id": 133,
+    "titulo": "Hic perspiciatis rerum",
+    "autorId": 11,
+    "paginas": 681,
+    "generos": [
+      "aventura",
+      "autoajuda"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 46,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 47,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 41,
+        "nota": 4.0
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 2012
+  },
+  {
+    "id": 134,
+    "titulo": "Nisi porro natus",
+    "autorId": 17,
+    "paginas": 495,
+    "generos": [
+      "ficção científica",
+      "biografia",
+      "aventura"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 44,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 46,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 32,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 37,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 64,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 69,
+        "nota": 4.4
+      }
+    ],
+    "copiasDisponiveis": 10,
+    "anoPublicacao": 2014
+  },
+  {
+    "id": 135,
+    "titulo": "Harum illum fugiat",
+    "autorId": 9,
+    "paginas": 565,
+    "generos": [
+      "programação",
+      "aventura"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 43,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 63,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 67,
+        "nota": 3.5
+      },
+      {
+        "usuarioId": 67,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 68,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 57,
+        "nota": 3.9
+      }
+    ],
+    "copiasDisponiveis": 5,
+    "anoPublicacao": 1865
+  },
+  {
+    "id": 136,
+    "titulo": "Odit corrupti cupiditate",
+    "autorId": 1,
+    "paginas": 476,
+    "generos": [
+      "produtividade",
+      "engenharia de software",
+      "fantasia"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 55,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 56,
+        "nota": 3.8
+      },
+      {
+        "usuarioId": 65,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 1981
+  },
+  {
+    "id": 137,
+    "titulo": "Sapiente voluptates ex",
+    "autorId": 10,
+    "paginas": 313,
+    "generos": [
+      "romance",
+      "história"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 33,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 56,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 55,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 33,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 51,
+        "nota": 4.8
+      },
+      {
+        "usuarioId": 53,
+        "nota": 3.9
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 1898
+  },
+  {
+    "id": 138,
+    "titulo": "Et quod eligendi sequi",
+    "autorId": 10,
+    "paginas": 242,
+    "generos": [
+      "mistério",
+      "programação"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 58,
+        "nota": 5.0
+      },
+      {
+        "usuarioId": 56,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 46,
+        "nota": 4.2
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 1905
+  },
+  {
+    "id": 139,
+    "titulo": "Aperiam id",
+    "autorId": 19,
+    "paginas": 562,
+    "generos": [
+      "ficção científica",
+      "engenharia de software"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 49,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 45,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 68,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 45,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 33,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 43,
+        "nota": 4.6
+      }
+    ],
+    "copiasDisponiveis": 3,
+    "anoPublicacao": 1995
+  },
+  {
+    "id": 140,
+    "titulo": "Quas alias",
+    "autorId": 19,
+    "paginas": 249,
+    "generos": [
+      "produtividade",
+      "biografia"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 39,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 45,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 59,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 62,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 66,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 34,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 4,
+    "anoPublicacao": 1943
+  },
+  {
+    "id": 141,
+    "titulo": "Quaerat eveniet",
+    "autorId": 16,
+    "paginas": 491,
+    "generos": [
+      "mistério",
+      "programação"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 39,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 52,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 29,
+        "nota": 3.6
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 2005
+  },
+  {
+    "id": 142,
+    "titulo": "Sequi molestias cumque",
+    "autorId": 5,
+    "paginas": 456,
+    "generos": [
+      "ficção científica",
+      "produtividade"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 35,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 66,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 52,
+        "nota": 5.0
+      },
+      {
+        "usuarioId": 46,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 59,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 61,
+        "nota": 4.2
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 2022
+  },
+  {
+    "id": 143,
+    "titulo": "Molestias fugiat iusto",
+    "autorId": 15,
+    "paginas": 635,
+    "generos": [
+      "terror",
+      "romance"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 53,
+        "nota": 4.4
+      },
+      {
+        "usuarioId": 67,
+        "nota": 3.5
+      }
+    ],
+    "copiasDisponiveis": 4,
+    "anoPublicacao": 1908
+  },
+  {
+    "id": 144,
+    "titulo": "Dolor beatae",
+    "autorId": 18,
+    "paginas": 539,
+    "generos": [
+      "terror"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 64,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 60,
+        "nota": 4.4
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 1858
+  },
+  {
+    "id": 145,
+    "titulo": "Autem architecto id",
+    "autorId": 16,
+    "paginas": 681,
+    "generos": [
+      "mistério"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 34,
+        "nota": 3.8
+      },
+      {
+        "usuarioId": 55,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 36,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 40,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 66,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 30,
+        "nota": 4.6
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 2019
+  },
+  {
+    "id": 146,
+    "titulo": "Tenetur",
+    "autorId": 12,
+    "paginas": 420,
+    "generos": [
+      "programação",
+      "épico",
+      "história"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 60,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 38,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 61,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 49,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 70,
+        "nota": 4.5
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 1992
+  },
+  {
+    "id": 147,
+    "titulo": "Expedita eius sed",
+    "autorId": 11,
+    "paginas": 507,
+    "generos": [
+      "biografia",
+      "história",
+      "autoajuda"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 41,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 46,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 40,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 58,
+        "nota": 4.0
+      }
+    ],
+    "copiasDisponiveis": 2,
+    "anoPublicacao": 1881
+  },
+  {
+    "id": 148,
+    "titulo": "Provident dolore at",
+    "autorId": 18,
+    "paginas": 640,
+    "generos": [
+      "épico"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 70,
+        "nota": 4.3
+      },
+      {
+        "usuarioId": 52,
+        "nota": 4.7
+      },
+      {
+        "usuarioId": 36,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 45,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 32,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 55,
+        "nota": 4.5
+      }
+    ],
+    "copiasDisponiveis": 4,
+    "anoPublicacao": 1919
+  },
+  {
+    "id": 149,
+    "titulo": "Veritatis",
+    "autorId": 18,
+    "paginas": 488,
+    "generos": [
+      "programação",
+      "aventura",
+      "terror"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 44,
+        "nota": 3.7
+      },
+      {
+        "usuarioId": 66,
+        "nota": 4.6
+      },
+      {
+        "usuarioId": 42,
+        "nota": 3.9
+      },
+      {
+        "usuarioId": 69,
+        "nota": 4.9
+      },
+      {
+        "usuarioId": 41,
+        "nota": 4.5
+      },
+      {
+        "usuarioId": 30,
+        "nota": 3.7
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 1851
+  },
+  {
+    "id": 150,
+    "titulo": "Rem libero",
+    "autorId": 13,
+    "paginas": 387,
+    "generos": [
+      "história",
+      "biografia",
+      "ficção científica"
+    ],
+    "avaliacoes": [
+      {
+        "usuarioId": 37,
+        "nota": 4.1
+      },
+      {
+        "usuarioId": 57,
+        "nota": 4.2
+      },
+      {
+        "usuarioId": 39,
+        "nota": 4.6
+      },
+      {
+        "usuarioId": 45,
+        "nota": 4.0
+      },
+      {
+        "usuarioId": 68,
+        "nota": 3.6
+      },
+      {
+        "usuarioId": 32,
+        "nota": 4.5
+      }
+    ],
+    "copiasDisponiveis": 1,
+    "anoPublicacao": 1956
+  }
+]
