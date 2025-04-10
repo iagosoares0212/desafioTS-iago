@@ -5,13 +5,13 @@ interface Livro {
     autorId: number;
     paginas: number;
     generos: string[];
-    avaliacoes: Avalicoes[];
+    avaliacoes: Avaliacoes[];
     copiasDisponiveis: number;
     anoPublicacao: number;
 }
 
 
-interface Avalicoes {
+interface Avaliacoes {
     usuarioId: number;
     nota: number;
 }
