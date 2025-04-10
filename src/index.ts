@@ -1,22 +1,22 @@
 // Tipos
-interface Livro { 
+interface Livro { // criação de uma interface para um livro, que é o molde, que define como o objeto de ser
     id: number;
     titulo: string;
     autorId: number;
     paginas: number;
-    generos: string[];
+    generos: string[]; //pq não colocou generos: GeneroDeLivro[]; ??
     avaliacoes: Avaliacoes[];
     copiasDisponiveis: number;
     anoPublicacao: number;
 }
 
 
-interface Avaliacoes {
+interface Avaliacoes { //criação de uma interface para o valor "Avaliacoes[]"
     usuarioId: number;
     nota: number;
 }
 
-type GeneroDeLivro = string
+type GeneroDeLivro = string // perguntar aos caras
 
 // Resolução dos exercícios
 
