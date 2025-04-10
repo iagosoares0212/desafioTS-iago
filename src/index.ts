@@ -1,5 +1,5 @@
 // Tipos
-interface Livro {
+interface Livro { 
     id: number;
     titulo: string;
     autorId: number;
@@ -30,7 +30,7 @@ export const exercicio01 = (livros: Livro[], anoLimite: number): string[] => liv
 .map(livro => livro.titulo)
 
 
-export const exercicio02 = (
+export const exercicio02 = ( 
     livros: Livro[],
     copiasDisponiveis: Livro['copiasDisponiveis'],
     genero: GeneroDeLivro
