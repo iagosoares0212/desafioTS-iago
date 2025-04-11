@@ -50,7 +50,7 @@ export const exercicio02 = (livros: Livro[], copiasDisponiveis: Livro['copiasDis
 
 //parei aqui :)
 
-// export const exercicio03 = (livros: Livro[], autores: Autor[]): Record<string, string> => autores
+export const exercicio03 = (livros: Livro[], autores: Autor[]): Record<string, string> => autores
 
 // export const exercicio04 = (livros: Livro[], leitores: Leitor[], idLeitor: Leitor['id']): Livro[] => livros
 
